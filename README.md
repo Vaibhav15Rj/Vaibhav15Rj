@@ -28,8 +28,6 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **MERN STACK**
 
-- 👨‍💻 All of my projects are available at [https://app.netlify.com/teams/baibhavroy15/sites](https://app.netlify.com/teams/baibhavroy15/sites)
-
 - 📫 How to reach me **baibhavroy15@gmail.com**
 
 - ⚡ Fun fact **Along with being excellent in communication, I am proefficient in co-curricular activites as well.I'm also the Class Representative(CSE) and Training & Placement Coordinator (CSE).**

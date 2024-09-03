@@ -30,7 +30,9 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **baibhavroy15@gmail.com**
 
-- ⚡ Fun fact **Along with being excellent in communication, I am proefficient in co-curricular activites as well.I'm also the Class Representative(CSE) and Training & Placement Coordinator (CSE).**
+- ⚡ Fun fact **Along with being excellent in communication, I am proefficient in co-curricular activites as well.**
+
+- 👨‍💻 Roles & Responsibilities ** CLass Representative (CSE) , Training & Placement Coordinator **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

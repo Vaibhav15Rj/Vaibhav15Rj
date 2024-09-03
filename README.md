@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-![logo](https://github.com/Vaibhav15Rj/Mine/blob/main/Banner.gif)
+![logo](https://github.com/Vaibhav15Rj/Vaibhav15Rj/blob/main/Banner.gif)
 <h1 align="center">Hi 👋, I'm Vaibhav Raj</h1>
 <h3 align="center">A passionate Software Engineer & Web Developer from India.</h3>
 <img align="right" alt="coding" width="200" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">

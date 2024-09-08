@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact **Along with being excellent in communication, I am proefficient in co-curricular activites as well.**
 
-- 👨‍💻 Roles & Responsibilities **CLass Representative (CSE) , Training & Placement Coordinator (CSE)**
+- 👨‍💻 Roles & Responsibilities **Class Representative (CSE) , Training & Placement Coordinator (CSE)**
 
 
 <h3 align="left">Connect with me:</h3>

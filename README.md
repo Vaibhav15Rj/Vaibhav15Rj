@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **AI chat application**
 
-- 🌱 I’m currently learning **MERN STACK**  **and**   **Data Science**
+- 🌱 I’m currently learning  **Data Science**
 
 - 📫 How to reach me **baibhavroy15@gmail.com**
 

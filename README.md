@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhav15rj&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhav15rj" /> </p>
 
-- 🔭 I’m currently working on **AI chat application**
+- 🔭 I’m currently working on **Data Automation**
 
-- 🌱 I’m currently learning  **Data Science**
+- 🌱 I’m currently learning  **DevOps**
 
 - 📫 How to reach me **baibhavroy15@gmail.com**
 
